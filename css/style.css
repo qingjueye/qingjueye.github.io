@@ -778,20 +778,20 @@ ul.personal-info li {
 	border-right: none;
 }
 .icon-bg {
-	background-image: url(../images/resume/skills.png);
+	background-image: url(../images/skills.png);
 	background-position: left;
 	-webkit-background-size: contain;
 	background-size: contain;
 	background-repeat: no-repeat;
 }
 .icon-skills {
-	background-image: url(../images/resume/icon_01.png);
+	background-image: url(../images/icon_01.png);
 }
 .icon-education {
-	background-image: url(../images/resume/icon_02.png);
+	background-image: url(../images/icon_02.png);
 }
 .icon-employment {
-	background-image: url(../images/resume/icon_03.png);
+	background-image: url(../images/icon_03.png);
 }
 .tabs .horizontal li a:hover, .tabs .horizontal li.active a{
 	background-color: #f4d03f;
