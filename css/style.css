@@ -699,7 +699,7 @@ h1.maintitle {
 	position: absolute;
 	bottom: 0px;
 	right: 15px;
-	background: url(../images/profile.png) no-repeat;
+	/*background: url(../images/profile.png) no-repeat;*/
 	background-size: contain;
 	background-position: right;
 }
